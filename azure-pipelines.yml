@@ -12,7 +12,7 @@ pool:
 steps:
 - task: UiPathInstallPlatform@4
   inputs:
-    cliVersion: 'X_22.10.8432.18709'
+    cliVersion: 'X_23.10.8753.32995'
 - task: UiPathPack@4
   inputs:
     versionType: 'AutoVersion'
